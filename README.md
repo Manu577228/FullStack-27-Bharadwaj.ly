@@ -231,3 +231,33 @@ Software Engineer | Full-Stack Developer
 <p align="center">
   <b>Production Ready • Cloud Native • Full-Stack Engineered</b>
 </p>
+
+---
+
+## 👨‍💻 Author
+
+<p align="center">
+  <b>Manu Bharadwaj</b><br/>
+  Software Engineer • Full-Stack Developer • System Builder
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/manu-bharadwaj-3507a345/">
+    <img src="https://img.shields.io/badge/LinkedIn-Manu%20Bharadwaj-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  &nbsp;
+  <a href="https://youtube.com/@code-with-Bharadwaj">
+    <img src="https://img.shields.io/badge/YouTube-Code%20With%20Bharadwaj-FF0000?style=for-the-badge&logo=youtube" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Building scalable systems. Teaching real engineering. Shipping production software.</i>
+</p>
+
+---
+
+<p align="center">
+  ⭐ If you like this project, consider giving it a star.
+</p>
+
